@@ -55,15 +55,15 @@ At Cognizant, I defined and executed a full-scale customer segmentation strategy
 I designed and evaluated A/B and multivariate tests on homepage personalization, dynamic pricing, and email campaign timing. Using Stata and Seaborn, I interpreted statistical significance to ensure our recommendations were data-driven and reliable. The integration of purchase, clickstream, and marketing data using Google Cloud Analytics allowed me to optimize queries and pipelines to support real-time recommendation feeds.
 My Tableau dashboards for conversion funnel performance, campaign ROI, churn tracking, and cohort behavior analysis became essential tools for the product and growth teams. By partnering closely with these teams, I helped launch personalization features that drove a 19% increase in revenue per session and improved cart abandonment recovery by 11%. My data-driven recommendations were incorporated into the quarterly product roadmap, demonstrating the strategic value of analytics.
 
-## Data Analyst at Noah Technologies 
+## Data Analyst at Hero MotoCorp 
    Oct 2019 - March 2021
    
    
-At TCS, I performed root cause analysis on vehicle warranty claims and quality issues using statistical methods and machine learning algorithms. This analytical approach identified manufacturing defects that saved $3M annually in recall costs. I created automated reporting solutions using VBA and Excel macros to track dealer inventory levels, sales velocity, and parts demand forecasting across 500+ dealership locations nationwide.
+At Hero after my 6 month Internship. I got a offered full time as an Data Analyst, Where I performed root cause analysis on vehicle warranty claims and quality issues using statistical methods and machine learning algorithms. This analytical approach identified manufacturing defects that saved $3M annually in recall costs. I created automated reporting solutions using VBA and Excel macros to track dealer inventory levels, sales velocity, and parts demand forecasting across 500+ dealership locations nationwide.
 Utilizing Teradata and SSAS, I mined customer feedback data from surveys, social media, and call centers, uncovering insights that drove product feature enhancements and improved Net Promoter Score by 15 points. I also conducted market competitive analysis using web scraping techniques and external data sources to benchmark pricing strategies, feature offerings, and market share trends across vehicle segments.
 My partnership with manufacturing teams to optimize production scheduling through demand forecasting models resulted in reducing inventory holding costs by 18% while maintaining optimal stock levels for high-demand models.
 
-## Analytics Intern at Hero MotoCorp 
+## Analytics Intern at Hero MotoCorp
    Feb 2019 - Sep 2019
 
    
